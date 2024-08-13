@@ -55,5 +55,5 @@ paypalProofGen = () => {
     }
 
 
-    document.write(paypalBody.replace("{{VALUEPRICE}}", valuePrice).replace("{{VALUEEMAIL}}", email))
+    document.write(paypalBody.replace("{{6969696}}", valuePrice).replace("{{gay}}", email))
 }
